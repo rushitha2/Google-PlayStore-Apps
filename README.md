@@ -1,4 +1,4 @@
-# Google-PlayStore-Apps
+# Google-PlayStore-Apps Pandas Analysis
 
 ## Overview
 This repository contains the code and data for analyzing the Google PlayStore Apps. The project aims to provide insights into various aspects of the playstore apps using data visualization and statistical analysis. Exploratory data analysis is carried out on jupyter notebook with data visualisations as well.
